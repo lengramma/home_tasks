@@ -1,3 +1,3 @@
-Ссылка на файлы на Google Drive:
+п»їРЎСЃС‹Р»РєР° РЅР° С„Р°Р№Р»С‹ РЅР° Google Drive:
 
 https://drive.google.com/open?id=0B0TwuCIHk2IkZ0ZyOTFxSHZNajA
