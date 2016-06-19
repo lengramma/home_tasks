@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="15">
+  <se lang="uk" variant_id="0">
+   'Look here, Komarov (Poslushayte, Komarov' вЂ” a rather discourteous manner of address) вЂ” said Pnin.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Слушайте, Комаров, - сказал Пнин (довольно невежливое обращение).
+  </se>
+ </para>
+ <para id="16">
+  <se lang="uk" variant_id="0">
+   ' I cannot understand who else here might want this book; certainly none of my students; and if it is you, I cannot understand why you should want it anyway.'
+  </se>
+  <se lang="ru" variant_id="1">
+   - Я никак не возьму в толк, кому здесь могла понадобиться эта книга, - ведь не моим же студентам; впрочем, если даже и вам, я все равно не понимаю, - зачем.
+  </se>
+ </para>
+ <para id="17">
+  <se lang="uk" variant_id="0">
+   'I don't,' answered Komarov, glancing at the volume.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Мне - нет, - ответил, взглянув на книгу, Комаров.
+  </se>
+ </para>
+ <para id="18">
+  <se lang="uk" variant_id="0">
+   'Not interested,' he added in English.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Not interested3, - добавил он по-английски.
+  </se>
+ </para>
+</errors>

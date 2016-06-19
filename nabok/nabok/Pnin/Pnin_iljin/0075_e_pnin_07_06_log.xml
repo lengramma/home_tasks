@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="7">
+  <se lang="uk" variant_id="0">
+   He did not specify his destination.
+  </se>
+  <se lang="ru" variant_id="1">
+   Места своего назначения он не назвал.
+  </se>
+ </para>
+ <para id="8">
+  <se lang="uk" variant_id="0">
+   The Greyhound that brought me to Waindell on Monday the fourteenth arrived after nightfall.
+  </se>
+  <se lang="ru" variant_id="1">
+   "Грейхаунд", который привез меня в Вайнделл в понедельник четырнадцатого, пришел туда уже затемно.
+  </se>
+ </para>
+</errors>

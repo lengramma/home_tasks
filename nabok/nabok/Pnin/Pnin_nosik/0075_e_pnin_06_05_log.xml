@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="25">
+  <se lang="uk" variant_id="0">
+   He would love to come.
+  </se>
+  <se lang="ru" variant_id="1">
+   И что он с удовольствием придет.
+  </se>
+ </para>
+ <para id="26">
+  <se lang="uk" variant_id="0">
+   What was the address?
+  </se>
+  <se lang="ru" variant_id="1">
+   Какой адрес?
+  </se>
+ </para>
+ <para id="28">
+  <se lang="uk" variant_id="0">
+   At the very very end of the rodd, where it unites with Cleef Ahvnue.
+  </se>
+  <se lang="ru" variant_id="1">
+   Самый ни на есть конец Тоддродд, где она имеет свое соединение со Скальной айвенью.
+  </se>
+ </para>
+ <para id="29">
+  <se lang="uk" variant_id="0">
+   A leetle breek house and a beeg blahk cleef.'
+  </se>
+  <se lang="ru" variant_id="1">
+   Мальюсинг кирпичный домок и громадинг черный скала.
+  </se>
+ </para>
+</errors>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="11">
+  <se lang="uk" variant_id="0">
+   'Eden, Eden, Eden,' the tall dark lady in charge repeated rapidly, rubbing her forehead.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Иден, Иден, Иден, — быстренько повторяла высокая темноволосая продавщица, потирая лоб.
+  </se>
+ </para>
+ <para id="12">
+  <se lang="uk" variant_id="0">
+   'Let me see, you don't mean a book on the British statesman?
+  </se>
+  <se lang="ru" variant_id="1">
+   — Постойте, вам про английского политика?
+  </se>
+ </para>
+ <para id="13">
+  <se lang="uk" variant_id="0">
+   Or do you?'
+  </se>
+  <se lang="ru" variant_id="1">
+   Так?
+  </se>
+ </para>
+ <para id="19">
+  <se lang="uk" variant_id="0">
+   'Strange!' said Pnin.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Странность! — сказал Пнин.
+  </se>
+ </para>
+ <para id="20">
+  <se lang="uk" variant_id="0">
+   'The vicissitudes of celebrity!
+  </se>
+  <se lang="ru" variant_id="1">
+   — Превратности славы!
+  </se>
+ </para>
+</errors>

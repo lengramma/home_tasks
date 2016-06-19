@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="6">
+  <se lang="uk" variant_id="0">
+   'Information, please,' said Pnin.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Информация, пожалуйста, — сказал Пнин.
+  </se>
+ </para>
+ <para id="7">
+  <se lang="uk" variant_id="0">
+   'Where stops four o'clock bus to Cremona?'
+  </se>
+  <se lang="ru" variant_id="1">
+   — Где есть остановка четырехчасовой автобус в Кремону?
+  </se>
+ </para>
+ <para id="13">
+  <se lang="uk" variant_id="0">
+   'Quittance?' queried Pnin, Englishing the Russian for 'receipt' (kvtantsiya).
+  </se>
+  <se lang="ru" variant_id="1">
+   — Квитаншн? — спросил Пнин, беспечно придавая английское звучание русскому слову.
+  </se>
+ </para>
+ <para id="14">
+  <se lang="uk" variant_id="0">
+   'What's that?'
+  </se>
+  <se lang="ru" variant_id="1">
+   — Чего? Чего?
+  </se>
+ </para>
+ <para id="116">
+  <se lang="uk" variant_id="0">
+   It was now four-twenty. He blew his nose and trudged to the station.
+  </se>
+  <se lang="ru" variant_id="1">
+   Было двадцать минут пятого, Пнин высморкался и побрел к станции.
+  </se>
+ </para>
+ <para id="118">
+  <se lang="uk" variant_id="0">
+   'Here's your bag,' he said cheerfully.
+  </se>
+  <se lang="ru" variant_id="1">
+   "Вот он ваш саквояж, — сказал он бодро.
+  </se>
+ </para>
+ <para id="119">
+  <se lang="uk" variant_id="0">
+   'Sorry you missed the Cremona bus.'
+  </se>
+  <se lang="ru" variant_id="1">
+   — Жаль, что вы пропустили кремонский автобус".
+  </se>
+ </para>
+</errors>

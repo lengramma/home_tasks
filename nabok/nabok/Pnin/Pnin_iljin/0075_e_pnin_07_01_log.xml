@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="10">
+  <se lang="uk" variant_id="0">
+   In rapid French he berated her for something she had done or not done the day before.
+  </se>
+  <se lang="ru" variant_id="1">
+   По-французски он бегло корил ее за что-то, сделанное или не сделанное вчера.
+  </se>
+ </para>
+ <para id="11">
+  <se lang="uk" variant_id="0">
+   She gave him her gloved hand to kiss.
+  </se>
+  <se lang="ru" variant_id="1">
+   Она протянула ему для поцелуя руку в перчатке.
+  </se>
+ </para>
+</errors>

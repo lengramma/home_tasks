@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="97">
+  <se lang="uk" variant_id="0">
+   'No more reading today,' said Pain.
+  </se>
+  <se lang="ru" variant_id="1">
+   "Больше никакого чтения на сегодня, — сказал Пнин.
+  </se>
+ </para>
+ <para id="98">
+  <se lang="uk" variant_id="0">
+   'I know that it is a very exciting book but you will read and read tomorrow.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Я знаю, что это увлекательная книга, но ты будешь ее читать и читать завтра.
+  </se>
+ </para>
+</errors>

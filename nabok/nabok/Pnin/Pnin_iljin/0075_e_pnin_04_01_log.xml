@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="14">
+  <se lang="uk" variant_id="0">
+   One-third of the alphabet!' coldly quipped the King, with the trace of an accent. 'The answer is no.
+  </se>
+  <se lang="ru" variant_id="1">
+   Добрая треть алфавита! - с легким акцентом холодно и язвительно молвил Король.- Я отвечаю - нет.
+  </se>
+ </para>
+ <para id="15">
+  <se lang="uk" variant_id="0">
+   I prefer the unknown quantity of exile.'
+  </se>
+  <se lang="ru" variant_id="1">
+   Предпочитаю неизвестную величину изгнания.
+  </se>
+ </para>
+</errors>

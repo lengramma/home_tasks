@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="10">
+  <se lang="uk" variant_id="0">
+   Shyly and gaily Victor interrupted the quid pro quo. The brown-domed gentleman took off his glasses and, unbending himself, looked up, up, up at tall, tall, tall Victor, at his blue eyes and reddish-brown hair.
+  </se>
+  <se lang="ru" variant_id="1">
+   Весело и застенчиво Виктор прервал это quid pro quo1. Господин с коричневой лысиной снял очки и, разогнувшись, посмотрел вверх-вверх-вверх на долгого-долгого-долгого Виктора, на его голубые глаза и рыжевато-русые волосы.
+  </se>
+ </para>
+ <para id="96">
+  <se lang="uk" variant_id="0">
+   'No more reading today,' said Pain.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Довольно чтения на сегодня, - сказал Пнин.
+  </se>
+ </para>
+ <para id="97">
+  <se lang="uk" variant_id="0">
+   'I know that it is a very exciting book but you will read and read tomorrow.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Я знаю, это очень увлекательная книга, но ты сможешь читать и читать ее завтра.
+  </se>
+ </para>
+</errors>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="15">
+  <se lang="uk" variant_id="0">
+   'Careful,' said Cements.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Тс-с, — сказал Клементс.
+  </se>
+ </para>
+ <para id="16">
+  <se lang="uk" variant_id="0">
+   'That story was first told about Blorenge, and is true.'
+  </se>
+  <se lang="ru" variant_id="1">
+   — Эта история, впервые рассказанная о Блорендже, вовсе не выдумка.
+  </se>
+ </para>
+</errors>

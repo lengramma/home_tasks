@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="20">
+  <se lang="uk" variant_id="0">
+   Half past eight, post meridiem. A little house-heating soirГ©e, nothing more.
+  </se>
+  <se lang="ru" variant_id="1">
+   В половине девятого, рost meridiem1. Небольшая soirйe2 по случаю новоселья, ничего более.
+  </se>
+ </para>
+ <para id="24">
+  <se lang="uk" variant_id="0">
+   He would love to come.
+  </se>
+  <se lang="ru" variant_id="1">
+   Он будет рад прийти.
+  </se>
+ </para>
+ <para id="25">
+  <se lang="uk" variant_id="0">
+   What was the address?
+  </se>
+  <se lang="ru" variant_id="1">
+   А по какому адресу?
+  </se>
+ </para>
+ <para id="27">
+  <se lang="uk" variant_id="0">
+   At the very very end of the rodd, where it unites with Cleef Ahvnue.
+  </se>
+  <se lang="ru" variant_id="1">
+   В самом конце дороги (rodd), там, где она встречается с Клиф-авню.
+  </se>
+ </para>
+ <para id="28">
+  <se lang="uk" variant_id="0">
+   A leetle breek house and a beeg blahk cleef.'
+  </se>
+  <se lang="ru" variant_id="1">
+   Маленький кирпичный домик и большой черный утес (cleef).
+  </se>
+ </para>
+</errors>

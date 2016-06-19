@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="24">
+  <se lang="uk" variant_id="0">
+   'Well, there is a better way to get there,' said the false Hagen.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Ну, туда есть дорога получше, - сказал поддельный Гаген.
+  </se>
+ </para>
+ <para id="25">
+  <se lang="uk" variant_id="0">
+   'The trucks have messed up that road, and besides you won't like the way it winds.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Эту-то грузовики совсем размололи, да и не понравится вам, как она петляет.
+  </se>
+ </para>
+</errors>

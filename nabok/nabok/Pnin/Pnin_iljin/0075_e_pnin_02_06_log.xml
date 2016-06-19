@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="61">
+  <se lang="uk" variant_id="0">
+   No ogni nebГЇvalГЇh orgiy
+  </se>
+  <se lang="ru" variant_id="1">
+   Но огни небывалых оргий
+  </se>
+ </para>
+ <para id="79">
+  <se lang="uk" variant_id="0">
+   'I made Eric a complete report,' Liza continued with a sigh.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Я обо всем рассказала Эрику, - продолжала Лиза со вздохом.
+  </se>
+ </para>
+ <para id="80">
+  <se lang="uk" variant_id="0">
+   'And now he keeps assuring me he can cure me if I cooperate.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Теперь он твердит, что смог бы меня излечить, пожелай я ему помогать.
+  </se>
+ </para>
+</errors>

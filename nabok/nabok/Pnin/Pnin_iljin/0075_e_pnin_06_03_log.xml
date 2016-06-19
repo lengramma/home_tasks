@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="11">
+  <se lang="uk" variant_id="0">
+   'Out with it, Herman!
+  </se>
+  <se lang="ru" variant_id="1">
+   - Ну, Герман, бросьте!
+  </se>
+ </para>
+ <para id="12">
+  <se lang="uk" variant_id="0">
+   Yes or no?'
+  </se>
+  <se lang="ru" variant_id="1">
+   Да или нет?
+  </se>
+ </para>
+ <para id="21">
+  <se lang="uk" variant_id="0">
+   'I know what adaptation means,' said Blorenge, frowning.
+  </se>
+  <se lang="ru" variant_id="1">
+   - Знаю я эти "приспособиться", - хмуро сказал Блорендж.
+  </se>
+ </para>
+ <para id="22">
+  <se lang="uk" variant_id="0">
+   'In 1950, when Hash was away, I engaged that Swiss skiing instructor and he smuggled in mimeo copies of some old French anthology.
+  </se>
+  <se lang="ru" variant_id="1">
+   • В 50-м, когда Хаш уехал, я нанял лыжного инструктора из Швейцарии, а он возьми и протащи сюда копии какой-то старой французской антологии.
+  </se>
+ </para>
+</errors>

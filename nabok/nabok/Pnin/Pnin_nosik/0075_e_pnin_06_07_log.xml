@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="10">
+  <se lang="uk" variant_id="0">
+   'Well, I'll be on my way after mid years,' said Professor Thomas.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Ну да, я и отправлюсь туда, но только во втором полугодии, — отозвался профессор Томас.
+  </se>
+ </para>
+ <para id="11">
+  <se lang="uk" variant_id="0">
+   'Of course, most of the actual field work has been done already by others.'
+  </se>
+  <se lang="ru" variant_id="1">
+   — Конечно, большая часть полевой работы уже была там выполнена другими.
+  </se>
+ </para>
+ <para id="19">
+  <se lang="uk" variant_id="0">
+   'Dr Hagen,' said Thomas as he shook hands with him. 'I hope the Senator did not see you walking about with that stuff.'
+  </se>
+  <se lang="ru" variant_id="1">
+   — Доктор Гаген, — сказал Томас, пожимая ему руку, — надеюсь, Сенатор не видел, как вы несете это в руке.
+  </se>
+ </para>
+</errors>

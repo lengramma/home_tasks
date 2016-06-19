@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="4">
+  <se lang="uk" variant_id="0">
+   Curtly he wrote that he was through with teaching and would not even bother to wait till the end of the spring term.
+  </se>
+  <se lang="ru" variant_id="1">
+   Очень коротко он сообщал мне, что с преподаванием покончено и что он даже не даст себе труда дождаться конца весеннего семестра.
+  </se>
+ </para>
+ <para id="5">
+  <se lang="uk" variant_id="0">
+   Then he turned to other subjects.
+  </se>
+  <se lang="ru" variant_id="1">
+   После чего он перешел к другим предметам.
+  </se>
+ </para>
+ <para id="8">
+  <se lang="uk" variant_id="0">
+   He did not specify his destination.
+  </se>
+  <se lang="ru" variant_id="1">
+   Он не уточнял, куда он направляется.
+  </se>
+ </para>
+ <para id="9">
+  <se lang="uk" variant_id="0">
+   The Greyhound that brought me to Waindell on Monday the fourteenth arrived after nightfall.
+  </se>
+  <se lang="ru" variant_id="1">
+   "Грейхаунд", на котором я добрался в понедельник четырнадцатого в Уэйндел, прибыл туда уже затемно.
+  </se>
+ </para>
+</errors>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="11">
+  <se lang="uk" variant_id="0">
+   'What on earth does it matter,' cried Varvara.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Да какое, помилуйте, это имеет значение, — воскликнула Варвара.
+  </se>
+ </para>
+ <para id="12">
+  <se lang="uk" variant_id="0">
+   'Who on earth wants to know the exact day?'
+  </se>
+  <se lang="ru" variant_id="1">
+   — Кому, помилуйте, нужно с точностью знать, в какой день?
+  </se>
+ </para>
+ <para id="13">
+  <se lang="uk" variant_id="0">
+   'I can tell you the exact day,' said Pnin, blinking in the broken sunlight and inhaling the remembered tang of northern pines.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Я могу вам сказать точно, какой был день, — сказал Пнин, моргая от переменчивых солнечных лучей и глубоко вдыхая памятный запах северной сосны.
+  </se>
+ </para>
+ <para id="14">
+  <se lang="uk" variant_id="0">
+   'The action of the novel starts in the beginning of 1872, namely on Friday, February the twenty-third by the New Style.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Действие романа начинается в начале 1872 года, точнее, в пятницу, двадцать третьего февраля по новому стилю.
+  </se>
+ </para>
+</errors>

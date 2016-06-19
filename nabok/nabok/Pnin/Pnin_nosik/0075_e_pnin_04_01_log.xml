@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missing/>
+<errors>
+ <para id="15">
+  <se lang="uk" variant_id="0">
+   'The answer is no.
+  </se>
+  <se lang="ru" variant_id="1">
+   — Ответом будет "ньет".
+  </se>
+ </para>
+ <para id="16">
+  <se lang="uk" variant_id="0">
+   I prefer the unknown quantity of exile.'
+  </se>
+  <se lang="ru" variant_id="1">
+   Предпочитаю неизмеримую вьечность изгнания.
+  </se>
+ </para>
+</errors>
