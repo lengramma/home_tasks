@@ -95,7 +95,7 @@ def xmltoprs(data, sep='\t'):
 def start(xmlfilename, prsfilename):
     data = BeautifulSoup(open(xmlfilename, 'r', encoding='utf-8'), 'html.parser')
     res = xmltoprs(data)
-    headers = '#sentno	#wordno	#lang	#graph	#word	#indexword	#nvars	#nlems	#nvar	#lem	#trans	#trans_ru	#lex	#gram	#flex	#punctl	#punctr	#sent_pos'
+    headers = '#sentno	#wordno	#lang	#graph	#word	#indexword	#nvars	#nlems	#nvar	#lem	#trans	#trans_ru	#lex	#gram	#flex	#punctl	#punctr	#sent_pos \n'
     with open(prsfilename, "w", encoding='utf-8') as file:
         file.write(headers)
         for line in res:
