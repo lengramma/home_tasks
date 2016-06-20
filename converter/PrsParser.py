@@ -27,7 +27,6 @@ def sentolines(el, sentnum=1, wordnum=1, sent_pos=''):
 
     line.append(str(len(anals)))  # 7 column, nvars
 
-    # not sure, how to do it
     line.append(str(len(anals)))  # 8 column, nlems
 
     ind = 1
