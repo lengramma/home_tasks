@@ -3,14 +3,14 @@ import re
 
 
 def sentolines(el, sentnum=1, wordnum=1, sent_pos=''):
-    result = []  # list with list of strings, data about this sentence
-    line = []  # one line
+    result = []
+    line = []
     line.append(str(sentnum))  # 1 column, sentence number
     line.append(str(wordnum))  # 2 column, word number
     line.append('')  # 3 column, lang
 
-    text = el.text  # text of this element
-    text = text.replace('\t', '')  #removing all bad stuff from the text
+    text = el.text
+    text = text.replace('\t', '')
     text = text.replace('\n', '')
     text = text.replace(' ', '')
 
@@ -66,10 +66,10 @@ def sentolines(el, sentnum=1, wordnum=1, sent_pos=''):
 
 
 def xmltoprs(data, sep='\t'):
-    sentences = data.findAll('se')  # getting all sentences from given text
+    sentences = data.findAll('se') 
     table = []
     for i in range(len(sentences)):
-        words = sentences[i].findAll('w')  # getting all words form sentence
+        words = sentences[i].findAll('w')  
         for j in range(len(words)):
             sent_pos = ''
             if j == 0:
