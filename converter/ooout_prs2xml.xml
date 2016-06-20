@@ -1,0 +1,245 @@
+<body>
+ <p>
+  lxml
+ </p>
+ <se>
+  <w>
+   <ana gr="nom sg" lex="күк" morph="Ø" trans="небо">
+   </ana>
+   <ana gr="nom sg" lex="күк" morph="Ø" trans="синий">
+   </ana>
+   Күк
+  </w>
+  <w>
+   <ana gr="caus ger" lex="күкрә" morph="т еп" trans="греметь">
+   </ana>
+   күкрәтеп
+  </w>
+  <w>
+   <ana gr="pl poss_1sg dat" lex="юл" morph="дар ым а" trans="дорога">
+   </ana>
+   юлдарыма
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="ger" lex="саҡыр" morph="ып" trans="звать">
+   </ana>
+   <ana gr="caus ger" lex="са" morph="ҡыр ып" trans="косить">
+   </ana>
+   Саҡырып
+  </w>
+  <w>
+   <ana gr="dat" lex="ат" morph="а" trans="лошадь, имя">
+   </ana>
+   <ana gr="nom sg" lex="ата" morph="Ø" trans="отец, самец">
+   </ana>
+   <ana gr="imp 2sg" lex="ата" morph="Ø" trans="называть">
+   </ana>
+   <ana gr="pres" lex="ат" morph="а" trans="стрелять, расцветать">
+   </ana>
+   ата
+  </w>
+  <w>
+   <ana gr="poss_3sg_pl" lex="таң" morph="ы" trans="заря">
+   </ana>
+   таңы
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="poss_1sg loc" lex="тамыр" morph="ым да" trans="корень">
+   </ana>
+   Тамырымда
+  </w>
+  <w>
+   <ana gr="nom sg" lex="башҡорт" morph="Ø" trans="башкир">
+   </ana>
+   башҡорт
+  </w>
+  <w>
+   <ana gr="nom sg" lex="атлы" morph="Ø" trans="имеющий лошадь">
+   </ana>
+   атлы
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="neg" lex="күс" morph="мә" trans="перемещаться">
+   </ana>
+   <ana gr="poss_1sg dat" lex="күс" morph="м ә" trans="рой">
+   </ana>
+   <ana gr="nom sg" lex="күсмә" morph="Ø" trans="перелетный, кочевой">
+   </ana>
+   Күсмә
+  </w>
+  <w>
+   <ana gr="poss_1sg gen" lex="халҡ" morph="ым дың" trans="народ">
+   </ana>
+   халҡымдың
+  </w>
+  <w>
+   <ana gr="poss_3sg_pl" lex="ҡан" morph="ы" trans="кровь">
+   </ana>
+   ҡаны
+  </w>
+ </se>
+ <se>
+  <w>
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="pl" lex="юл" morph="дар" trans="дорога">
+   </ana>
+   Юлдар
+  </w>
+  <w>
+   <ana gr="pres 1sg" lex="гиҙ" morph="ә м" trans="пересекать">
+   </ana>
+   гиҙәм
+  </w>
+  <w>
+   <ana gr="pl" lex="йыл" morph="дар" trans="год">
+   </ana>
+   йылдар
+  </w>
+  <w>
+   <ana gr="pres 1sg" lex="гиҙ" morph="ә м" trans="пересекать">
+   </ana>
+   гиҙәм
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="pl" lex="быуат" morph="тар" trans="век">
+   </ana>
+   Быуаттар
+  </w>
+  <w>
+   <ana gr="poss_3sg_pl abl" lex="төпкөл" morph="ө нән" trans="глубина">
+   </ana>
+   төпкөлөнән
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="poss_1sg" lex="замандаш" morph="ым" trans="современник">
+   </ana>
+   Замандашым
+  </w>
+  <w>
+   <ana gr="nom sg" lex="сәләм" morph="Ø" trans="привет">
+   </ana>
+   сәләм
+  </w>
+  <w>
+   <ana gr="dat" lex="һи" morph="ңә" trans="ты">
+   </ana>
+   һиңә
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="gen" lex="башҡорт" morph="тоң" trans="башкир">
+   </ana>
+   Башҡорттоң
+  </w>
+  <w>
+   <ana gr="nom sg" lex="төп" morph="Ø" trans="дно, основа">
+   </ana>
+   төп
+  </w>
+  <w>
+   <ana gr="abl" lex="иле" morph="нән" trans="с палец толщиной">
+   </ana>
+   <ana gr="poss_3sg_pl abl" lex="ил" morph="е нән" trans="страна">
+   </ana>
+   иленән
+  </w>
+ </se>
+ <se>
+  <w>
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="poss_3sg_pl" lex="аманат" morph="ы" trans="аманат">
+   </ana>
+   Аманаты
+  </w>
+  <w>
+   <ana gr="pl gen" lex="баба" morph="лар ҙың" trans="баба">
+   </ana>
+   бабаларҙың
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="imp 2sg" lex="булығыҙ" morph="Ø" trans="будьте">
+   </ana>
+   Булығыҙ
+  </w>
+  <w>
+   <ana gr="nom sg" lex="татыу" morph="Ø" trans="дружный, согласный">
+   </ana>
+   татыу
+  </w>
+  <w>
+   <ana gr="dat" lex="бер" morph="гә" trans="один">
+   </ana>
+   <ana gr="nom sg" lex="бергә" morph="Ø" trans="вместе">
+   </ana>
+   бергә
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="imp 2sg" lex="күс" morph="Ø" trans="перемещаться">
+   </ana>
+   <ana gr="nom sg" lex="күс" morph="Ø" trans="рой">
+   </ana>
+   Күс
+  </w>
+  <w>
+   <ana gr="poss_3sg assim" lex="ҡорт" morph="он дай" trans="червь, пчела, волк">
+   </ana>
+   ҡортондай
+  </w>
+  <w>
+   <ana gr="1pl" lex="йыйылайы" morph="ҡ" trans="?">
+   </ana>
+   йыйылайыҡ
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="poss_1sg" lex="урал" morph="ым" trans="Урал">
+   </ana>
+   <ana gr="pass 1sg" lex="ура" morph="л ым" trans="мотать, заворачивать, закутывать">
+   </ana>
+   Уралым
+  </w>
+  <w>
+   <ana gr="poss_1pl dat" lex="тирмә" morph="беҙ гә" trans="юрта">
+   </ana>
+   тирмәбеҙгә
+  </w>
+ </se>
+ <se>
+  <w>
+   <ana gr="1pl" lex="йәшәйе" morph="к" trans="?">
+   </ana>
+   Йәшәйек
+  </w>
+  <w>
+   <ana gr="inf" lex="бергәб" morph="ергә" trans="?">
+   </ana>
+   <ana gr="dat" lex="бергәбер" morph="гә" trans="?">
+   </ana>
+   <ana gr="pres" lex="бергәберг" morph="ә" trans="?">
+   </ana>
+   бергәбергә
+  </w>
+ </se>
+</body>
